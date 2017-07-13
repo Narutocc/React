@@ -1,4 +1,4 @@
-
+| --------- | --------- |
 | --------- | --------- |
 |[angular ajax请求](https://github.com/Narutocc/angular/issues/1)|[rem](https://github.com/Narutocc/angular/issues/2)|
 |[多种方式实现文本省略](https://github.com/Narutocc/angular/issues/3)|[双向数据绑定的几种方法](https://github.com/Narutocc/angular/issues/4)|
