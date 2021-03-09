@@ -6,3 +6,4 @@ issues | issues
 [react ref](https://github.com/Narutocc/React/issues/7)|[React中组件通信方式](https://github.com/Narutocc/React/issues/8)
 [form表单（受控组件和非受控组件）](https://github.com/Narutocc/React/issues/9)|[无状态组件](https://github.com/Narutocc/React/issues/10)
 [Flux](https://github.com/Narutocc/React/issues/11)|[redux](https://github.com/Narutocc/React/issues/12)
+[reducer划分](https://github.com/Narutocc/React/issues/13)
